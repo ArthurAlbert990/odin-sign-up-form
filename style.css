@@ -95,6 +95,18 @@ input:focus{
     border: 2px solid rgb(84, 158, 255);
   }
 
+
+.error{
+    box-shadow: 0 0 4px rgba(255, 0, 0, 0.774);
+    border: 1px solid red;
+}
+
+.mismatch{
+    font-size: 0.7rem;
+    padding-top: 3px;
+    color: red;
+}
+
 .signup-form{
     display: flex;
     flex-direction: row;
