@@ -88,6 +88,7 @@ input{
     border-radius: 8px;
     border: 1px solid #dddddd;
     outline: none;
+    padding-left: 10px;
 }
 
 input:focus{
@@ -143,7 +144,7 @@ input:focus{
 }
 
 .image-box{
-    background-image: url(./media/christian-costa-florest.jpg);
+    background-image: url(./media/florest.jpg);
     background-size: cover;
     width: 30%;
     color: white;
